@@ -6,9 +6,16 @@ const users=[
 }
 ,]
 
+const movies=[
+{
+id:1,
+title:'Matrix',
+year:'1999',
+price:22
+}
+]
 
-
-module.exports={users};
+module.exports={users,movies};
 
 
 
